@@ -1,3 +1,5 @@
+#Replace extension .txt by .yml to run the script!
+
 name: OUIGO Price Tracker
 
 on:
